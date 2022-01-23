@@ -1,4 +1,4 @@
-# Pop! os Post Install Guide
+# Pop!OS Post Install Guide
 Things to do after installing Pop!OS
 
 ## Update
