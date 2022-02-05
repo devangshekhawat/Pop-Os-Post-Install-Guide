@@ -22,10 +22,15 @@ Things to do after installing Pop!OS
 ## Go through Settings
 * Check all the settings and configure as needed.
 
-## Themeing
+## Applications
+* Standard Notes
+* VS Codium
+* Davinci Resolve
+
+## Themeing 
 
 ### GTK Themes
-* https://github.com/vinceliuice/Colloid-gtk-theme (currently using)
+* https://github.com/vinceliuice/Colloid-gtk-theme 
 * https://github.com/EliverLara/Nordic
 * https://github.com/vinceliuice/Orchis-theme
 * https://github.com/vinceliuice/Graphite-gtk-theme
