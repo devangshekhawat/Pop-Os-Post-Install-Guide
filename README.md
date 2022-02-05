@@ -22,11 +22,6 @@ Things to do after installing Pop!OS
 ## Go through Settings
 * Check all the settings and configure as needed.
 
-## Applications
-* Standard Notes
-* VS Codium
-* Davinci Resolve
-
 ## Themeing 
 
 ### GTK Themes
