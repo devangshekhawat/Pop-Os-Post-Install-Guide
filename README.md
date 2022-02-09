@@ -42,6 +42,9 @@ Things to do after installing Pop!OS
 * https://github.com/vinceliuice/Tela-icon-theme
 * https://github.com/vinceliuice/Colloid-gtk-theme/tree/main/icon-theme
 
+## Walpapers
+* https://github.com/manishprivet/dynamic-gnome-wallpapers
+
 ### Grub Theme
 * https://github.com/vinceliuice/grub2-themes
 
