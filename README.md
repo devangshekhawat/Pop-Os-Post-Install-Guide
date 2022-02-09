@@ -25,6 +25,7 @@ Things to do after installing Pop!OS
 ## Themeing 
 
 ### GTK Themes
+* https://www.gnome-look.org/p/1280977/
 * https://github.com/vinceliuice/Colloid-gtk-theme 
 * https://github.com/EliverLara/Nordic
 * https://github.com/vinceliuice/Orchis-theme
@@ -33,6 +34,9 @@ Things to do after installing Pop!OS
 ### Use themes in Flatpaks
 * `sudo flatpak override --filesystem=$HOME/.themes`
 * `sudo flatpak override --env=GTK_THEME=my-theme`
+
+## Fonts
+* `sudo apt install fonts-cantarell` 
 
 ### Icons
 * https://github.com/vinceliuice/Tela-icon-theme
