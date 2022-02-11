@@ -35,20 +35,24 @@ Things to do after installing Pop!OS
 * `sudo flatpak override --filesystem=$HOME/.themes`
 * `sudo flatpak override --env=GTK_THEME=my-theme`
 
-## Fonts
+### Firefox Theme
+* `git clone https://github.com/EliverLara/firefox-nordic-theme && cd firefox-nordic-theme`
+* `./scripts/install.sh`
+
+### Fonts
 * `sudo apt install fonts-cantarell` 
 
 ### Icons
 * https://github.com/vinceliuice/Tela-icon-theme
 * https://github.com/vinceliuice/Colloid-gtk-theme/tree/main/icon-theme
 
-## Walpapers
+### Walpapers
 * https://github.com/manishprivet/dynamic-gnome-wallpapers
 
 ### Grub Theme
 * https://github.com/vinceliuice/grub2-themes
 
-## Gnome-Shell extensions
+### Gnome-Shell extensions
 * [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/)
 * [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 * [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
