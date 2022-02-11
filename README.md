@@ -37,7 +37,7 @@ Things to do after installing Pop!OS
 
 ### Firefox Theme
 * `git clone https://github.com/EliverLara/firefox-nordic-theme && cd firefox-nordic-theme`
-* `./scripts/install.sh`
+* `./scripts/install.sh -g -p *.default-release`
 
 ### Fonts
 * `sudo apt install fonts-cantarell` 
