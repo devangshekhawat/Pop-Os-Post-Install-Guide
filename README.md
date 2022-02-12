@@ -3,8 +3,8 @@ Things to do after installing Pop!OS
 
 ## Update
 * Go into Pop!Shop, click on installed and then update all
-* OR
-* `sudo apt update && sudo apt upgrade`
+ OR
+ `sudo apt update && sudo apt upgrade`
 * `sudo apt autoremove && sudo apt autoclean`
 * `sudo fwupdmgr update`
 * `flatpak update`
