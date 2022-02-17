@@ -20,6 +20,11 @@ Things to do after installing Pop!OS
 ## Go through Settings
 * Check all the settings and configure as needed.
 
+## Firefox Theme
+* `git clone https://github.com/EliverLara/firefox-nordic-theme && cd firefox-nordic-theme`
+* `./scripts/install.sh -g -p *.default-release`
+* also set `media.ffmpeg.vaapi.enabled` to true in `about:config`
+
 ## Themeing 
 
 ### GTK Themes
@@ -32,10 +37,6 @@ Things to do after installing Pop!OS
 ### Use themes in Flatpaks
 * `sudo flatpak override --filesystem=$HOME/.themes`
 * `sudo flatpak override --env=GTK_THEME=my-theme`
-
-### Firefox Theme
-* `git clone https://github.com/EliverLara/firefox-nordic-theme && cd firefox-nordic-theme`
-* `./scripts/install.sh -g -p *.default-release`
 
 ### Fonts
 * `sudo apt install fonts-cantarell` 
