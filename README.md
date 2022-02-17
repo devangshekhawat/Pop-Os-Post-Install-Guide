@@ -59,3 +59,4 @@ Things to do after installing Pop!OS
 * [Gsconnect](https://extensions.gnome.org/extension/1319/gsconnect/)
 * [Bluetooth Quick Connect](https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/)
 * [Input Output Device Chooser](https://github.com/mmalafaia/gse-sound-output-device-chooser/tree/patch-1)
+* [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
