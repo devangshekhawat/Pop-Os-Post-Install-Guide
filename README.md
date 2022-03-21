@@ -25,7 +25,7 @@ Things to do after installing Pop!OS
 * `./scripts/install.sh -g -p *.default-release`
 * also set `media.ffmpeg.vaapi.enabled` to true in `about:config`
 
-## Themeing 
+## Theming 
 
 ### GTK Themes
 * https://www.gnome-look.org/p/1280977/
