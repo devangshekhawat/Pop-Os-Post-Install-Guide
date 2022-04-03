@@ -8,9 +8,6 @@ Things to do after installing Pop!OS
 * `flatpak update`
 * reboot
 
-## Restricted Extras
-* `sudo apt install ubuntu-restricted-extras`
-
 ## Change Hostname
 * `hostnamectl set-hostname YOUR_HOSTNAME`
 
