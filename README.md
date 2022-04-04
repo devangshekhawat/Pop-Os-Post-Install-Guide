@@ -22,7 +22,11 @@ Things to do after installing Pop!OS
 ## Firefox
 * `git clone https://github.com/EliverLara/firefox-nordic-theme && cd firefox-nordic-theme`
 * `./scripts/install.sh -g -p *.default-release`
-* also set `media.ffmpeg.vaapi.enabled` to true in `about:config`
+* also set 
+gfx.x11-egl.force-enabled: true
+layers.acceleration.force-enabled: true
+media.eme.enabled: true
+media.ffmpeg.vaapi.enabled: true
 
 ## Theming 
 
