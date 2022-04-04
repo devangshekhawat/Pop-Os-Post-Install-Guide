@@ -5,8 +5,8 @@ Things to do after installing Pop!OS
 * 
 ## Update
 * `sudo apt update && sudo apt upgrade`
+* `sudo apt full-upgrade && sudo apt dist upgrade`
 * `sudo apt autoremove && sudo apt autoclean`
-* `sudo fwupdmgr update`
 * `flatpak update`
 * reboot
 
@@ -14,7 +14,7 @@ Things to do after installing Pop!OS
 * `hostnamectl set-hostname YOUR_HOSTNAME`
 
 ## Codecs
-* `sudo apt install -y libavcodec-extra libdvd-pkg; sudo dpkg-reconfigure libdvd-pkg`
+* `sudo apt install libavcodec-extraubuntu-restricted-extra
 
 ## Go through Settings
 * Check all the settings and configure as needed.
