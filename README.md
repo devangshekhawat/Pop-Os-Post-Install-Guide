@@ -1,6 +1,8 @@
 # Pop!OS Post Install Guide
 Things to do after installing Pop!OS
 
+## Dns 
+* 
 ## Update
 * `sudo apt update && sudo apt upgrade`
 * `sudo apt autoremove && sudo apt autoclean`
