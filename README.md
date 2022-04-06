@@ -2,7 +2,8 @@
 Things to do after installing Pop!OS
 
 ## Dns 
-* 
+* cloudflare
+
 ## Update
 * `sudo apt update && sudo apt upgrade`
 * `sudo apt full-upgrade && sudo apt dist upgrade`
@@ -14,7 +15,7 @@ Things to do after installing Pop!OS
 * `hostnamectl set-hostname YOUR_HOSTNAME`
 
 ## Codecs
-* `sudo apt install libavcodec-extraubuntu-restricted-extra
+* `sudo apt install libavcodec-extra ubuntu-restricted-extra`
 
 ## Go through Settings
 * Check all the settings and configure as needed.
@@ -32,6 +33,7 @@ media.ffmpeg.vaapi.enabled: true
 
 ### GTK Themes
 * https://www.gnome-look.org/p/1280977/
+* https://github.com/lassekongo83/adw-gtk3
 * https://github.com/vinceliuice/Colloid-gtk-theme 
 * https://github.com/EliverLara/Nordic
 * https://github.com/vinceliuice/Orchis-theme
@@ -68,3 +70,4 @@ media.ffmpeg.vaapi.enabled: true
 * Deja Dup
 
 ## Bash Aliases
+* setup as you want to
