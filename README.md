@@ -15,10 +15,15 @@ Things to do after installing Pop!OS
 * `hostnamectl set-hostname YOUR_HOSTNAME`
 
 ## Codecs
-* `sudo apt install libavcodec-extra ubuntu-restricted-extra`
+* `sudo apt install libavcodec-extra ubuntu-restricted-extras`
 
 ## Go through Settings
 * Check all the settings and configure as needed.
+
+## Get Stock Gnome (if you want to)
+* Turn off cosmic gnome extensions 
+* `sudo apt install gnome-sesssion`
+* Log out and switch to gnome from the cog wheel
 
 ## Firefox
 * `git clone https://github.com/EliverLara/firefox-nordic-theme && cd firefox-nordic-theme`
@@ -66,8 +71,12 @@ media.ffmpeg.vaapi.enabled: true
 * [Input Output Device Chooser](https://github.com/mmalafaia/gse-sound-output-device-chooser/tree/patch-1)
 * [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
 
-## Backup
-* Deja Dup
-
-## Bash Aliases
-* setup as you want to
+## Packages
+* Deja Dup 
+* Ulauncher
+* Blanket
+* Atom
+* Krita 
+* Pitivi
+* Joplin
+* Fragments
