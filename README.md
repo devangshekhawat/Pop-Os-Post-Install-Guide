@@ -31,6 +31,9 @@ Things to do after installing Pop!OS
 * also set:
 media.ffmpeg.vaapi.enabled: true
 
+## Battery Life
+* `sudo apt install powertopp`
+* `sudo powertop --auto-tune`
 
 ## Theming 
 
