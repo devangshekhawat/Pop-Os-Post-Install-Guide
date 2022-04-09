@@ -30,6 +30,7 @@ Things to do after installing Pop!OS
 * `./scripts/install.sh -g -p *.default-release`
 * also set:
 media.ffmpeg.vaapi.enabled: true
+layers.acceleration.force-enabled : true
 
 ## Battery Life
 * `sudo apt install powertopp`
