@@ -33,7 +33,7 @@ media.ffmpeg.vaapi.enabled: true
 layers.acceleration.force-enabled : true
 
 ## Battery Life
-* `sudo apt install powertopp`
+* `sudo apt install powertop`
 * `sudo powertop --auto-tune`
 
 ## Theming 
