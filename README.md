@@ -2,11 +2,21 @@
 Things to do after installing Pop!OS
 
 ## Update Mirrors
+* If you leave far from the US. Increase apt update speeds by switching to the closest mirror. Here replace XX with your country code:
+* `sudo sed -i 's|http://us.|http://XX.|' /etc/apt/sources.list.d/system.sources`
 
-
-## Dns 
-* cloudflare
-
+## DNS 
+* Use the following commands to change your dns server systemwide:
+* `sudo systemctl stop systemd-resolved`
+* `sudo systemctl disable systemd-resolved`
+* `sudo rm /etc/resolv.conf`
+* `sudo systemctl restart NetworkManager`
+* `sudo nano /etc/resolv.conf`
+* Insert your dns provider's nameservers.
+* i.e. 
+* `nameserver 1.1.1.1`
+* `nameserver 1.0.0.1`
+ 
 ## Update
 * `sudo apt update && sudo apt upgrade`
 * `sudo apt full-upgrade && sudo apt dist upgrade`
