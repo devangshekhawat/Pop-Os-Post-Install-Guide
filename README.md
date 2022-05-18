@@ -1,6 +1,9 @@
 # Pop!OS Post Install Guide
 Things to do after installing Pop!OS
 
+## Update Mirrors
+
+
 ## Dns 
 * cloudflare
 
