@@ -2,7 +2,7 @@
 Things to do after installing Pop!OS
 
 ## Update Mirrors
-* If you leave far from the US. Increase apt update speeds by switching to the closest mirror. Here replace XX with your country code:
+* If you live far from the US. Increase apt update speeds by switching to the closest mirror. Here replace XX with your country code:
 * `sudo sed -i 's|http://us.|http://XX.|' /etc/apt/sources.list.d/system.sources`
 
 ## DNS 
