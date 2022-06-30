@@ -28,7 +28,7 @@ Things to do after installing Pop!OS
 * `hostnamectl set-hostname YOUR_HOSTNAME`
 
 ## Codecs
-* `sudo apt install libavcodec-extra ubuntu-restricted-extras`
+* `sudo apt install ubuntu-restricted-extras`
 
 ## Go through Settings
 * Check all the settings and configure as needed.
